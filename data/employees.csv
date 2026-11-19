@@ -1,0 +1,11 @@
+employee_id,employee_name,department,job_grade,employment_status
+EMP001,James,Finance,Manager,Active
+EMP002,Sarah,HR,Officer,Active
+EMP003,Brian,IT,Analyst,Active
+EMP004,Linda,Operations,Officer,Active
+EMP005,Kevin,Finance,Analyst,Active
+EMP006,Mary,Risk,Manager,Active
+EMP007,Peter,Credit,Officer,Active
+EMP008,Grace,HR,Manager,Active
+EMP009,David,IT,Officer,Active
+EMP010,Anne,Operations,Manager,Active
