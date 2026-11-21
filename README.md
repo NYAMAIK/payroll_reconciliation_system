@@ -20,7 +20,7 @@ This application helps finance teams reconcile employees' expected net pay again
 ### 1. Clone the repository
 
 ```bash
-git clone YOUR_GITHUB_REPOSITORY_URL
+git clone https://github.com/NYAMAIK/payroll_reconciliation_system
 ```
 
 ### 2. Navigate to the project folder
